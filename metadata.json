@@ -1,0 +1,7 @@
+{
+  "name": "Monet Real-time Renderer",
+  "description": "An interactive web application transforming webcam feed into Monet-style impressionist oil paintings in real-time.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
